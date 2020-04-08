@@ -1,82 +1,84 @@
-[
-  {
-    "id": 1,
-    "name": "Alaipayuthe",
-    "releaseDate": 2000,
-    "genre": "romance",
-    "rating": 5,
-    "review": "awesome"
-  },
-  {
-    "id": 2,
-    "name": "Run",
-    "releaseDate": 2001,
-    "genre": "romance",
-    "rating": 5,
-    "review": "good"
-  },
-  {
-    "id": 3,
-    "name": "Uyire",
-    "releaseDate": 2000,
-    "genre": "romance",
-    "rating": 5,
-    "review": "excellent"
-  },
-  {
-    "id": 4,
-    "name": "Pizza",
-    "releaseDate": 2007,
-    "genre": "Horror",
-    "rating": 4,
-    "review": "good"
-  },
-  {
-    "id": 5,
-    "name": "Baasha",
-    "releaseDate": 1997,
-    "genre": "Action",
-    "rating": 5,
-    "review": "Super"
-  },
-  {
-    "id": 6,
-    "name": "Suren",
-    "releaseDate": 2100,
-    "genre": "Fiction",
-    "rating": 5,
-    "review": "mmmm!!"
-  },
-  {
-    "id": 7,
-    "name": "Yuvi",
-    "releaseDate": 2100,
-    "genre": "Suspense",
-    "rating": 5,
-    "review": "ohh!!"
-  },
-  {
-    "id": 8,
-    "name": "Jeans",
-    "releaseDate": 1995,
-    "genre": "romance",
-    "rating": 5,
-    "review": "awesome"
-  },
-  {
-    "id": 9,
-    "name": "Jai Hind",
-    "releaseDate": 1993,
-    "genre": "Action",
-    "rating": 3,
-    "review": "good"
-  },
-  {
-    "id": 10,
-    "name": "Karna",
-    "releaseDate": 1998,
-    "genre": "Action",
-    "rating": 3,
-    "review": "okay"
-  }
-]
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Alaipayuthe",
+      "releaseDate": 2000,
+      "genre": "romance",
+      "rating": 5,
+      "review": "awesome"
+    },
+    {
+      "id": 2,
+      "name": "Run",
+      "releaseDate": 2001,
+      "genre": "romance",
+      "rating": 5,
+      "review": "good"
+    },
+    {
+      "id": 3,
+      "name": "Uyire",
+      "releaseDate": 2000,
+      "genre": "romance",
+      "rating": 5,
+      "review": "excellent"
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "releaseDate": 2007,
+      "genre": "Horror",
+      "rating": 4,
+      "review": "good"
+    },
+    {
+      "id": 5,
+      "name": "Baasha",
+      "releaseDate": 1997,
+      "genre": "Action",
+      "rating": 5,
+      "review": "Super"
+    },
+    {
+      "id": 6,
+      "name": "Suren",
+      "releaseDate": 2100,
+      "genre": "Fiction",
+      "rating": 5,
+      "review": "mmmm!!"
+    },
+    {
+      "id": 7,
+      "name": "Yuvi",
+      "releaseDate": 2100,
+      "genre": "Suspense",
+      "rating": 5,
+      "review": "ohh!!"
+    },
+    {
+      "id": 8,
+      "name": "Jeans",
+      "releaseDate": 1995,
+      "genre": "romance",
+      "rating": 5,
+      "review": "awesome"
+    },
+    {
+      "id": 9,
+      "name": "Jai Hind",
+      "releaseDate": 1993,
+      "genre": "Action",
+      "rating": 3,
+      "review": "good"
+    },
+    {
+      "id": 10,
+      "name": "Karna",
+      "releaseDate": 1998,
+      "genre": "Action",
+      "rating": 3,
+      "review": "okay"
+    }
+  ]
+}
